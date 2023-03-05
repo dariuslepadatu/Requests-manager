@@ -1,7 +1,7 @@
 # Tema2-POO-RequestsManager
 
 Aceasta tema presupune dezvoltarea unui sistem ce ajuta la digitalizarea proceselor din instituțiile publice, mai exact un
-sistem de gestionare si rezolvare a cererilor din primarii. Aceste cereri sunt solutionate de functionarii publici ce lucreaza in cadrul primariei.
+sistem de gestionare si rezolvare a cererilor din primarii. Cererile sunt solutionate de functionarii publici ce lucreaza in cadrul primariei.
 Fiecare dintre acestia este specializat pe un anumit tip de utilizator care trimite cererea (clasele Angajat, Elev, Pensionar, EntitateJuridica sau Persoana) si apartine unui birou care se ocupa numai de gestionarea cererilor acelui utilizator.
 
 Pentru a stoca in mod eficient datele despre utilizatori am folosit urmatoarele colectii de date:
